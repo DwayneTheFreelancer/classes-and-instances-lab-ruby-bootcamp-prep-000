@@ -3,7 +3,7 @@ class Dog
 end
 
 fido = Dog.new 
-snoppy = Dog.new
+snopy = Dog.new
 lassie = Dog.new 
 
 class Person 
